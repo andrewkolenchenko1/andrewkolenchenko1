@@ -31,11 +31,3 @@
 <img height=25 src="https://img.shields.io/badge/-Git-black?style=for-the-badge&logo=git&logoColor=white">&nbsp;&nbsp;
 <img height=25 src="https://img.shields.io/badge/aws-%23232F3E.svg?style=for-the-badge&logo=amazon-aws&logoColor=white">&nbsp;&nbsp;
 <img height=25 src="https://img.shields.io/badge/ci%2Fcd-%23404d59.svg?style=for-the-badge&logo=githubactions&logoColor=white">&nbsp;&nbsp;
-
-## 📈Github Stats
-<p align="center">
-<a href="https://github.com/YOUR_USERNAME">
-  <img height="170em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="170em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&langs_count=8&theme=algolia"/>
-</a>
-</p>
